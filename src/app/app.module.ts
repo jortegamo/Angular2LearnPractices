@@ -7,9 +7,7 @@ import { AppComponent } from './app.component';
 import { PainterListModule } from './modules/painter-list.module';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-  ],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     FormsModule,
